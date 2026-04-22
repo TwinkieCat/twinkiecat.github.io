@@ -1,0 +1,35 @@
+.navbar-custom {
+	background-color: orange !important;
+	border: none;
+}
+.navbar-custom .navbar-nav > li > a {
+	color: black;
+}
+.navbar-custom .navbar-nav > li > a:hover {
+	color: white;
+	background-color: #e67e22;
+}
+.navbar-custom .navbar-toggle {
+	border-color: black;
+}
+.navbar-custom .icon-bar {
+	background-color: black;
+}
+body {
+	background-color: #F5F5DC;
+	margin: 0;
+	padding: 0;
+}
+.h1 {
+	font-family: helvetica;
+	padding: 30px;
+	text-align: center;
+}
+
+.productContainer{
+	float:left;
+}
+
+.navbar.navbar-fixed-top {
+    top: 130px;
+}
